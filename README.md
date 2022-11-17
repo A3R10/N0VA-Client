@@ -1,2 +1,7 @@
 # N0VA-Client
-A new eaglercraft client.
+A New Eaglercraft Client.
+
+HOW TO PLAY:
+
+PRESS (Y) KEY TO OPEN CLIENT AND (ESC) KEY TO CLOSE CLIENT
+AND THEN YOU CAN DO ALMOST ANYTHING
